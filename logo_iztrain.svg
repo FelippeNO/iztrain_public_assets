@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#46A08A;}
+	.st1{fill:url(#Retângulo_2-3_1_);}
+	.st2{fill:url(#Retângulo_2-4_1_);}
+	.st3{fill:url(#Retângulo_2-5_1_);}
+	.st4{fill:url(#SVGID_1_);}
+</style>
+<path id="Retângulo_2" class="st0" d="M161,262h253c5.5,0,10,4.5,10,10v94c0,5.5-4.5,10-10,10H161c-5.5,0-10-4.5-10-10v-94
+	C151,266.5,155.5,262,161,262z"/>
+<path id="Retângulo_2-2" class="st0" d="M161.1,632h254.9c5.5,0,10.1,4.5,10.1,10v94c0,5.5-4.5,10-10.1,10H161.1
+	c-5.5,0-10.1-4.5-10.1-10v-94C151,636.5,155.5,632,161.1,632z"/>
+<linearGradient id="Retângulo_2-3_1_" gradientUnits="userSpaceOnUse" x1="289" y1="379" x2="289" y2="617" gradientTransform="matrix(1 0 0 -1 0 1002)">
+	<stop  offset="0" style="stop-color:#388D82"/>
+	<stop  offset="1" style="stop-color:#1A7367"/>
+</linearGradient>
+<path id="Retângulo_2-3" class="st1" d="M247,385h84c5.5,0,10,4.5,10,10v218c0,5.5-4.5,10-10,10h-84c-5.5,0-10-4.5-10-10V395
+	C237,389.5,241.5,385,247,385z"/>
+<linearGradient id="Retângulo_2-4_1_" gradientUnits="userSpaceOnUse" x1="256.7188" y1="728.2812" x2="319.2812" y2="790.8438" gradientTransform="matrix(1 0 0 -1 0 1002)">
+	<stop  offset="0" style="stop-color:#388D82"/>
+	<stop  offset="1" style="stop-color:#1A7367"/>
+</linearGradient>
+<path id="Retângulo_2-4" class="st2" d="M246,226h84c5.5,0,10,4.5,10,10v17l0,0H236l0,0v-17C236,230.5,240.5,226,246,226z"/>
+<linearGradient id="Retângulo_2-5_1_" gradientUnits="userSpaceOnUse" x1="258.7188" y1="205.1562" x2="321.2812" y2="267.7188" gradientTransform="matrix(1 0 0 -1 0 1002)">
+	<stop  offset="0" style="stop-color:#388D82"/>
+	<stop  offset="1" style="stop-color:#1A7367"/>
+</linearGradient>
+<path id="Retângulo_2-5" class="st3" d="M238,755h104l0,0v17c0,5.5-4.5,10-10,10h-84c-5.5,0-10-4.5-10-10V755L238,755z"/>
+<path id="Retângulo_1-2" class="st0" d="M486.7,262h337c5.4,0,9.7,4.5,9.7,10v94c0,5.5-4.4,10-9.7,10h-337c-5.4,0-9.7-4.5-9.7-10
+	v-94C477,266.5,481.4,262,486.7,262z"/>
+<path id="Retângulo_1-3" class="st0" d="M488.5,632h337c5.4,0,9.7,4.5,9.7,10v94c0,5.5-4.4,10-9.7,10h-337c-5.4,0-9.7-4.5-9.7-10
+	v-94C478.8,636.5,483.1,632,488.5,632z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="514.059" y1="355.2591" x2="799.7074" y2="640.9074" gradientTransform="matrix(1 0 0 -1 0 1002)">
+	<stop  offset="0" style="stop-color:#388D82"/>
+	<stop  offset="1" style="stop-color:#1A7367"/>
+</linearGradient>
+<path class="st4" d="M685.9,385.6H823c2.5,0,3.9,3,2.3,4.9L635.4,618.8c-1.9,2.3-4.7,3.6-7.7,3.6H491c-2.6,0-4-3-2.3-4.9
+	l189.5-228.3C680.1,386.9,682.9,385.6,685.9,385.6z"/>
+</svg>
